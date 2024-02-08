@@ -1,3 +1,4 @@
 **/__pycache__ 
 #arquivos gerados toda vez que arquivos .py são executados
+.pytest_cache
 .venv
